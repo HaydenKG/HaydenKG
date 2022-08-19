@@ -1,5 +1,6 @@
 ### Hey 👋
 
-- 🔭 I’m currently working on a box breathing exercise site with JS and BalanceBreak  
-- 🌱 I’m currently enhnancing my skills with JS, Svelte and unity 3d development
+- 💻 Currently working at Ideenion Design AG as a Web- and 3D-developer
+- 🔭 Building web applications and packages in my free. Check them out in my repo if you want 
+- 🌱 Enhnancing my skills with JS, Vue and Unreal development
 - 📫 Reach me at HaydenGutoskie@gmail.com 
